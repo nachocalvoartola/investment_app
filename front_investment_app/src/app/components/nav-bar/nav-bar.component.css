@@ -1,0 +1,14 @@
+.navbar-custom {
+    background-color: #FFF5EE; 
+  }
+  
+  .btn-custom {
+    background-color: #FFE4C4; 
+    border-color: #FFE4C4;
+    color: black;
+  }
+  
+  .btn-custom:hover {
+    background-color: #FFE4C4;
+    border-color: #FFE4C4;
+  }
